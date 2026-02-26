@@ -1,10 +1,10 @@
 # Observer-Settings
 Regular observer settings that I use for most broadcasts 
 
-## HLAE (and OpenHUD) is recommended for a free entry into the craft
+## HLAE and OpenHUD are recommended for a free entry into the craft
 **HLAE**: https://github.com/advancedfx/advancedfx
 
-**OpenHUD**: https://github.com/JohnTimmermann/OpenHud
+**OpenHud**: https://github.com/JohnTimmermann/OpenHud
 
 ## Faceit/ESEA Coaches
 - **This command must be set to 0 --> *spec_usenumberkeys_nobinds 0*** (Included in the config)
