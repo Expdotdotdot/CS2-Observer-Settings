@@ -3,6 +3,7 @@ Regular observer settings that I use for most broadcasts
 
 ## HLAE (and OpenHUD) is recommended for a free entry into the craft
 **HLAE**: https://github.com/advancedfx/advancedfx
+
 **OpenHUD**: https://github.com/JohnTimmermann/OpenHud
 
 ## Faceit/ESEA Coaches
