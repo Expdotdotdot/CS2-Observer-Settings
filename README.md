@@ -1,10 +1,10 @@
 # Observer-Settings
-My regular observer settings for consistency
+Regular observer settings that I use for most broadcasts 
 
 ## HLAE is recommended
 https://github.com/advancedfx/advancedfx
 
-## Faceit Coaches
+## Faceit/ESEA Coaches
 - **This command must be set to 0 --> *spec_usenumberkeys_nobinds 0*** (Included in the config)
 
 - Use the command --> *spec_player* followed by the player name in "quotations" to spectate the player that is not on 0-9
@@ -25,4 +25,4 @@ https://github.com/advancedfx/advancedfx
 
 <br>
 
- **OR OR** you can use paper's HLAE overlay fork that has a rebinding feature: https://github.com/papesgit/advancedfx
+ **OR OR** you can use paper's external observer program that has a rebinding feature: https://github.com/papesgit/hot
